@@ -114,7 +114,7 @@ class HomePage extends StatelessWidget {
                       style: TextButton.styleFrom(backgroundColor: Colors.teal[400]),
                       child: const Text(
                         "Add",
-                        style: TextStyle(color: Colors.white),
+                        style: TextStyle(color: Colors.pink),
                       ),
                     ),
                   ],
